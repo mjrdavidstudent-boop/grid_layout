@@ -8,7 +8,7 @@ export default function App() {
         <div className="header-container" aria-label="left banner" />
 
         <div className="header-container2">
-          <div className="header-container2-content">Justine Micole</div>
+          <div className="header-container2-content">Micole Justine</div>
           <div className="header-container2-content">David</div>
         </div>
 
